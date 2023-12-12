@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# TypeScript
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# Sequelize
+/config/config.json
+
+# Environment variables
+.env*
+
+# Compiled JavaScript
+dist/
