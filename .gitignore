@@ -10,7 +10,7 @@ tsconfig.tsbuildinfo
 /config/config.json
 
 # Environment variables
-.env*
+.env
 
 # Compiled JavaScript
 dist/
